@@ -10,6 +10,6 @@
 
 #### Темы для изучения
 
-* [ ] Values, Variables and Types
-* [ ] Expressions
+* [X] Values, Variables and Types
+* [X] Expressions
 * [ ] Functions
